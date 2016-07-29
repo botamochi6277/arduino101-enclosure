@@ -11,4 +11,4 @@ Enclosure for [Arduino/Genuino 101](https://www.arduino.cc/en/Main/ArduinoBoard1
 ### Licence
 CC BY-NC-SA 4.0, [Detail](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-![CC BY-NC-SA 4.0](./by-nc-sa.svg)
+<img src="./by-nc-sa.png" width="25%">
